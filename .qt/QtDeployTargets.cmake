@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_AstroLinux_FILE /home/nestor/Projects/AstroLinux/AstroLinux)
+set(__QT_DEPLOY_TARGET_AstroLinux_TYPE EXECUTABLE)

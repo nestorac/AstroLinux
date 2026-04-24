@@ -1,0 +1,15 @@
+-rootPath
+/home/nestor/Projects/AstroLinux
+-cmake-output
+-output-file
+/home/nestor/Projects/AstroLinux/.qt/qml_imports/AstroLinux_build.cmake
+-importPath
+/home/nestor/Projects/AstroLinux
+-importPath
+/home/nestor/Projects/AstroLinux/com/astroLinux
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
+-qrcFiles
+/home/nestor/Projects/AstroLinux/.qt/rcc/qmake_com_astroLinux.qrc
+/home/nestor/Projects/AstroLinux/.qt/rcc/AstroLinux_raw_qml_0.qrc
+/home/nestor/Projects/AstroLinux/.qt/rcc/AstroLinux_raw_res_0.qrc

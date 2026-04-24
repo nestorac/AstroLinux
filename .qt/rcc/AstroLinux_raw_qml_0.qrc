@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/com/astroLinux/">
+    <file alias="qml/main.qml">/home/nestor/Projects/AstroLinux/qml/main.qml</file>
+    <file alias="qml/LocationManager.qml">/home/nestor/Projects/AstroLinux/qml/LocationManager.qml</file>
+    <file alias="qml/WeatherCard.qml">/home/nestor/Projects/AstroLinux/qml/WeatherCard.qml</file>
+    <file alias="qml/MoonPhase.qml">/home/nestor/Projects/AstroLinux/qml/MoonPhase.qml</file>
+    <file alias="qml/ObjectsList.qml">/home/nestor/Projects/AstroLinux/qml/ObjectsList.qml</file>
+  </qresource>
+</RCC>
+

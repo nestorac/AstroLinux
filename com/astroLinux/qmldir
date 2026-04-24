@@ -1,0 +1,9 @@
+module com.astroLinux
+typeinfo AstroLinux.qmltypes
+prefer :/qt/qml/com/astroLinux/
+LocationManager 1.0 qml/LocationManager.qml
+WeatherCard 1.0 qml/WeatherCard.qml
+MoonPhase 1.0 qml/MoonPhase.qml
+ObjectsList 1.0 qml/ObjectsList.qml
+depends QtQuick
+

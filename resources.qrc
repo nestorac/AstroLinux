@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/LocationManager.qml</file>
+        <file>qml/WeatherCard.qml</file>
+        <file>qml/MoonPhase.qml</file>
+        <file>qml/ObjectsList.qml</file>
+    </qresource>
+</RCC>

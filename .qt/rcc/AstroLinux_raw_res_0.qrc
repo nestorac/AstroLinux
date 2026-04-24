@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/com/astroLinux/">
+    <file alias="resources.qrc">/home/nestor/Projects/AstroLinux/resources.qrc</file>
+  </qresource>
+</RCC>
+

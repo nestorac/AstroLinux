@@ -1,0 +1,11 @@
+--resource
+/home/nestor/Projects/AstroLinux/.qt/rcc/qmake_com_astroLinux.qrc
+--resource
+/home/nestor/Projects/AstroLinux/.qt/rcc/AstroLinux_raw_qml_0.qrc
+--resource
+/home/nestor/Projects/AstroLinux/.qt/rcc/AstroLinux_raw_res_0.qrc
+/qt/qml/com/astroLinux/qml/main.qml
+/qt/qml/com/astroLinux/qml/LocationManager.qml
+/qt/qml/com/astroLinux/qml/WeatherCard.qml
+/qt/qml/com/astroLinux/qml/MoonPhase.qml
+/qt/qml/com/astroLinux/qml/ObjectsList.qml
